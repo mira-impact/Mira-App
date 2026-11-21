@@ -1,0 +1,8 @@
+[
+  {"id":"troco","diz":"dou troco no mercadinho","marca":"dou troco","vaga":"Operação de caixa","req":"caixa","porque":"Lidar com dinheiro e conferir o troco é o dia a dia de quem trabalha no caixa."},
+  {"id":"atendo","diz":"atendo os clientes no bar da minha tia","marca":"atendo os clientes","vaga":"Atendimento ao público","req":"atendimento","porque":"Receber o cliente, entender o que ele quer e resolver é o que a vaga chama de atendimento."},
+  {"id":"repor","diz":"ajudo a repor o que falta na prateleira","marca":"ajudo a repor","vaga":"Reposição de produtos","req":"reposicao","porque":"Perceber o que acabou e repor no lugar certo é o trabalho de reposição."},
+  {"id":"festa","diz":"organizei a festa junina da escola","marca":"organizei a festa junina","vaga":"Organização","req":"organizacao","porque":"Planejar, dividir as tarefas e deixar tudo pronto no dia é organização."},
+  {"id":"irmao","diz":"levo e busco meu irmão na escola todo dia","marca":"levo e busco meu irmão","vaga":"Responsabilidade com horário","req":"responsabilidade","rotulo":"Para as vagas, isso é","porque":"Ter hora certa todo dia, sem faltar, mostra que dá para contar com você."},
+  {"id":"barraca","diz":"na festa, a gente dividia as barracas","marca":"a gente dividia as barracas","vaga":"Trabalho em equipe","req":"equipe","porque":"Dividir as tarefas e revezar com os outros é trabalho em equipe."}
+]
