@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "next start",
     "test": "tsx --test test/*.test.ts",
-    "vagas": "node scripts/extrair-vagas.mjs"
+    "vagas": "node scripts/extrair-vagas.mjs",
+    "experimento": "tsx experimento/rodar.ts",
+    "experimento:simular": "tsx experimento/rodar.ts --simular",
+    "experimento:teste": "tsx experimento/rodar.ts --limite 3"
   },
   "dependencies": {
     "@google/genai": "^3.4.0",
