@@ -1,0 +1,28 @@
+{
+  "name": "mira",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "tsx --test test/*.test.ts",
+    "vagas": "node scripts/extrair-vagas.mjs",
+    "fontes": "tsx scripts/fontes.mts"
+  },
+  "dependencies": {
+    "@google/genai": "^3.4.0",
+    "@supabase/supabase-js": "^2.119.2",
+    "next": "16.4.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tsx": "^4.23.15",
+    "typescript": "^5"
+  }
+}

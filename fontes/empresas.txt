@@ -1,0 +1,34 @@
+# Uma fonte por linha:  Nome da empresa | endereço da página de carreiras (ou de UMA vaga)
+# Linhas com # são ignoradas. Depois rode:  npm run fontes
+# Dica: a página de UMA vaga é o melhor teste. Se tiver JobPosting, o script tenta achar as outras sozinho.
+#
+# Exemplos de formato (troque pelos endereços reais que você encontrar):
+# Empresa Exemplo | https://empresaexemplo.gupy.io/
+
+redemoura | https://redemoura.gupy.io/job/eyJqb2JJZCI6MTI3ODU2OTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+
+tim | https://vemprotime.gupy.io/job/eyJqb2JJZCI6MTI5MzE2MTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+
+localiza | https://localiza.gupy.io/job/eyJqb2JJZCI6MTI5MTcxODMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+
+hospitalsaomarcos | https://hospitalsaomarcos.gupy.io/job/eyJqb2JJZCI6MTI5MjE4MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+
+anhangueraferramentas | https://anhangueraferramentas.gupy.io/job/eyJqb2JJZCI6MTI5MzQ0OTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+
+luunabrasil | https://luunabrasil.gupy.io/job/eyJqb2JJZCI6MTI5NDAxNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+
+taconnections | https://taconnections.gupy.io/job/eyJqb2JJZCI6MTI3ODYxMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+
+spread | https://spread.gupy.io/job/eyJqb2JJZCI6MTI5MTIzNjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+
+cn | https://aprendizcn.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9
+
+safra | https://portal.gupy.io/job-search/term=safra
+
+bradesco | https://portal.gupy.io/job-search/term=bradesco
+
+geral | https://www.glassdoor.com.br/Job/index.htm?prevPage=serp
+
+institutoj&f | https://institutojef.gupy.io/
+
+jbs | https://programaevoluir.gupy.io/

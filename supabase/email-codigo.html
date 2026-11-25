@@ -1,0 +1,8 @@
+<!-- Cole em Supabase → Authentication → Emails → Templates, nos modelos "Magic link" E "Confirm signup".
+     Assunto sugerido: Seu acesso à MIRA -->
+<h2 style="font-family:Arial,sans-serif;color:#1F2033">Seu acesso à MIRA</h2>
+<p style="font-family:Arial,sans-serif;font-size:16px;color:#1F2033">Toque no botão para entrar e guardar seu progresso:</p>
+<p><a href="{{ .ConfirmationURL }}" style="display:inline-block;background:#4338CA;color:#ffffff;font-family:Arial,sans-serif;font-size:16px;font-weight:bold;padding:14px 22px;border-radius:10px;text-decoration:none">Entrar na MIRA</a></p>
+<p style="font-family:Arial,sans-serif;font-size:16px;color:#1F2033">Ou digite este código no app:</p>
+<p style="font-family:Arial,sans-serif;font-size:30px;font-weight:bold;letter-spacing:6px;color:#4338CA">{{ .Token }}</p>
+<p style="font-family:Arial,sans-serif;font-size:13px;color:#6B6E80">O código vale por pouco tempo. Se você não pediu este e-mail, pode ignorar: ninguém entra sem ele.</p>

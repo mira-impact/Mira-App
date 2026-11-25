@@ -1,0 +1,23 @@
+[
+  {"id":"caixa","titulo":"Jovem Aprendiz · Operador(a) de Caixa","tipo":"Aprendiz","area":"Atendimento e vendas","onde":"Supermercado · Zona Leste","turno":"manhã","lidaEm":"2026-11-05",
+   "obrig":["idade","em","manha"],"desej":["atendimento","caixa","informatica"],"selecao":["Inscrição online","Dinâmica em grupo","Entrevista"],
+   "pergunta":"Você já trabalhou com dinheiro ou caixa?","objetivo":"Jovem Aprendiz – Operador(a) de Caixa","exemplo":true},
+  {"id":"loja","titulo":"Jovem Aprendiz · Auxiliar de Loja","tipo":"Aprendiz","area":"Atendimento e vendas","onde":"Varejo · Zona Leste","turno":"tarde","lidaEm":"2026-11-12",
+   "obrig":["idade","em","tarde"],"desej":["atendimento","reposicao","vendas"],"selecao":["Inscrição online","Entrevista"],
+   "pergunta":"Como você atende um cliente com pressa?","objetivo":"Jovem Aprendiz – Auxiliar de Loja","exemplo":true},
+  {"id":"repo","titulo":"Repositor(a) · primeiro emprego","tipo":"Primeiro emprego","area":"Logística e estoque","onde":"Atacado · Zona Leste","turno":"manhã","lidaEm":"2026-10-13",
+   "obrig":["em","manha"],"desej":["reposicao","estoque"],"selecao":["Entrevista"],
+   "pergunta":"O que você faz quando falta um produto na prateleira?","objetivo":"Repositor(a)","exemplo":true},
+  {"id":"adm","titulo":"Jovem Aprendiz · Auxiliar Administrativo","tipo":"Aprendiz","area":"Administrativo","onde":"Escritório · Centro","turno":"tarde","lidaEm":"2026-11-09",
+   "obrig":["idade","em","tarde","informatica"],"desej":["organizacao","comunicacao"],"selecao":["Inscrição online","Teste de informática","Entrevista"],
+   "pergunta":"Como você organiza suas tarefas?","objetivo":"Jovem Aprendiz – Auxiliar Administrativo","exemplo":true},
+  {"id":"estagio","titulo":"Estágio · Atendimento ao cliente","tipo":"Estágio","area":"Atendimento e vendas","onde":"Banco · Centro","turno":"tarde","lidaEm":"2026-11-14",
+   "obrig":["em","tarde","matricula"],"desej":["atendimento","equipe"],"selecao":["Inscrição online","Dinâmica em grupo","Entrevista"],
+   "pergunta":"Conte uma vez em que você trabalhou em grupo.","objetivo":"Estágio em Atendimento ao Cliente","exemplo":true},
+  {"id":"ti","titulo":"Jovem Aprendiz · Suporte de TI","tipo":"Aprendiz","area":"Tecnologia","onde":"Escritório · Centro","turno":"manhã","lidaEm":"2026-11-11",
+   "obrig":["idade","em","manha","informatica"],"desej":["atendimento","problemas"],"selecao":["Inscrição online","Teste de informática","Entrevista"],
+   "pergunta":"Como você explica uma coisa técnica para alguém com pressa?","objetivo":"Jovem Aprendiz – Suporte de TI","exemplo":true},
+  {"id":"dados","titulo":"Estágio · Dados e planilhas","tipo":"Estágio","area":"Tecnologia","onde":"Empresa de tecnologia · Zona Leste","turno":"tarde","lidaEm":"2026-11-13",
+   "obrig":["em","tarde","matricula"],"desej":["informatica","organizacao","fechamento"],"selecao":["Inscrição online","Teste de Excel","Entrevista"],
+   "pergunta":"Como você confere se uma conta bateu?","objetivo":"Estágio em Dados e Planilhas","exemplo":true}
+]
